@@ -223,15 +223,12 @@ Contributions are welcome! Please:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### 📝 License
 
-This project is open source and available under the MIT License.
 
 ### 📧 Contact
 
-**Author:** Ali Lahbib  
-**Email:** [Your Email]  
-**GitHub:** [AliLahbib](https://github.com/AliLahbib)
+**Author:**  Lahbib Ali / Fradi Mohamed Amine / Chakroun Youssef 
+
 
 ---
 
@@ -244,4 +241,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Last Updated:** December 29, 2025
