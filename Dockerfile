@@ -1,5 +1,5 @@
-# 1. On part d'une image Python officielle légère (version 3.9 ou celle que tu utilises)
-FROM python:3.9-slim
+# 1. On part d'une image Python officielle légère (version 3.12)
+FROM python:3.12-slim
 
 # 2. On définit le dossier de travail dans le conteneur
 WORKDIR /app
